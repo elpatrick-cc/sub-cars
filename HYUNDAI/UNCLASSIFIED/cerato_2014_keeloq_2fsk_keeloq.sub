@@ -1,0 +1,10 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPreset2FSKDev476Async
+Protocol: KeeLoq
+Bit: 64
+Key: 8A 00 00 0F 5C 2B 47 00
+TE: 380
+Mfcode: 8A00000
+Counter: 0
