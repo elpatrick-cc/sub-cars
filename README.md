@@ -1,29 +1,3 @@
-# 🚗 Cars Dataset
-
-## 🤝 Contribution
-
-Contributions are welcome!
-
-If you'd like to improve this dataset, you can:
-- ➕ Add new car models  
-- 📁 Add additional `.sub` files  
-- 🛠️ Fix or improve the existing structure  
-
-Simply open a **Pull Request** with your changes 👍  
-
-Thanks to everyone who helps grow this project 🚀  
-
----
-
-## 📂 Dataset Structure
-
-This dataset is organized as:
-
-- `BRAND/MODEL/*.sub`
-
-There are **no extra wrapper folders** such as `*_LOCK` / `*_UNLOCK*` inside a model folder anymore.  
-If you see them in old forks, their contents should be moved directly under the model directory.
-
 <table>
   <thead>
     <tr>
