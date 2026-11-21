@@ -1,5 +1,7 @@
+# OS junk
+Thumbs.db
 desktop.ini
-**/desktop.ini
-**/desktop_DUP1.ini
-Readme.txt
+.DS_Store
+
+# Stray .sub files: they must live in BRAND/MODEL/
 /*.sub
